@@ -2,7 +2,7 @@
 유니티 ml agent를 활용해서 spot micro 프로젝트에 기여해보겠다. 강화학습으로 4족보행을 수행하는게 목표다.
 
 ## ML-Agent
-다음 링크를 따라서 MLAgent를 설치한다.
+다음 링크를 따라서 MLAgent를 설치한다. https://github.com/Unity-Technologies/ml-agents
  - 설치후 ml agent예제들이 들어있는 파일을 작업중인 Asset위치에 복사해 넣는다.
  - 에러가 200여개 뜨는데, 위 링크의 마지막 부분에 에러 해결법이 기록되어있으니 따라서 에러들을 해결해준다.
  
